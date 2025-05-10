@@ -1,7 +1,7 @@
 SdkKeyBegin##{aT1PVBaMyeb4o0qTtJh_PCTJzHlfP2wobtvkM41ym0CBd55k4p_qmgm5rcnndcva6Tf5ArfxxcbWh1lteQwCAr}##LastSdkKey
 bannerIdBegin##{558dcb51fa3816a8}##LastbannerId
-InterIdBegin##{794b97aa810ec086*}##LastInterId
-RewordIdBegin##{5be1d3c547e6ccd3*}##LastRewordId
+InterIdBegin##{*794b97aa810ec086*}##LastInterId
+RewordIdBegin##{*5be1d3c547e6ccd3*}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
 Url_RateBegin##{https://www.google.com/}##LastUrl_Rate
 
