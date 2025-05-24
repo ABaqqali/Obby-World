@@ -5,4 +5,4 @@ RewordIdBegin##{5be1d3c547e6ccd*}##LastRewordId
 IsfreedBegin##{false}##LastIsfreed
 Url_RateBegin##{https://play.google.com/store/apps/details?id=com.obby.adventure.parkourworld}##LastUrl_Rate
 
-IsRateBegin##{false}##LastIsRate
+IsRateBegin##{true}##LastIsRate
